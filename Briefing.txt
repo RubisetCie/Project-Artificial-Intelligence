@@ -1,0 +1,20 @@
+Le problème est un problème d'Association.
+Il peut être résolu par un algorithme d'apprentissage non supervisé.
+
+PLAN D'ACTION :
+	1 - Préparation des données
+		* Mise à l'échelle
+		* Suppression des attributs inutiles
+		* Remplacement des attributs défectueux
+		* Concaténation des 5 CSV en un seul fichier
+	2 - Mise en place de l'algorithme d'apprentissage
+		* Etablir le modèle à utiliser
+		* Faire de la validation croisée (Cross Validation)
+	3 - Prédiction
+		* Résolution du problème
+		
+1 CSV PAR PERSONNE :
+	"general_data"			: Matthieu
+	"employee_survey_data"	: Adrien
+	"manager_survey_data"	: Celian
+	"in_time" / "out_time"	: Etienne
